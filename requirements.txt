@@ -1,0 +1,4 @@
+coloredlogs 
+sly
+openpyxl
+
